@@ -147,4 +147,4 @@ EMAIL_HOST_PASSWORD = 'xyz' # host email password required
 # this process is required because google blocks apps authentication by default
 EMAIL_RECEIVING_USER = ['to@gmail.com'] # email on which you will receive messages sent from website
 
-ALLOWED_HOSTS = ['eshoppy.onrender.com']
+ALLOWED_HOSTS = ['*']
